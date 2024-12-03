@@ -1,8 +1,12 @@
 :root {
   /*colors*/
   --main-bg-color: #E2B07D;
-  --landing-bg-color: #FFFFFF;
+  --landing-bg-color: #ffffff;
   --dark-red: #A90000;
+  --uncommon-shade: rgba(0, 184, 46, 0.6);
+  --rare-shade: rgba(0, 104, 184, 0.6);
+  --epic-shade: rgba(85, 0, 187, 0.4);
+  --legendary-shade: rgba(255, 68, 0, 0.6);
   /*border-style*/
   --main-br: 8px;
 }

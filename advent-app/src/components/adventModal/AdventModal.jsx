@@ -23,8 +23,8 @@ const AdventModal = ({modalOpen, onClose, data}) => {
     }
 
     return <Dialog open={modalOpen} onClose={onClose} className={'advent-modal'} fullWidth>
-        <DialogTitle>
-            Новая книга: <Typography variant={'h5'}>{data.title}</Typography>
+        <DialogTitle justifyItems={'center'} color={'white'}>
+            <Typography variant={'h4'} >{data.title}</Typography>
         </DialogTitle>
         <DialogContent>
             <DialogContentText justifyContent={'center'}>
@@ -32,26 +32,9 @@ const AdventModal = ({modalOpen, onClose, data}) => {
                     {data.description}
                 </Card>
 
-                {data.link ? <Grid container>
-                        <Grid item xs={11}>
-                            <Card className={'advent-modal-way-to-get'}>
-                                {data.link}
-                            </Card>
-                        </Grid>
-                        <Grid item xs={1} sx={{paddingTop: '15px'}}>
-                            {!copied ? <IconButton size={'large'} onClick={() => handleCopy(data.link)}>
-                                    <ContentCopyIcon/>
-                                </IconButton> :
-                                <IconButton size={'large'} disabled={true}>
-                                    <CheckCircleIcon color={'success'}/>
-                                </IconButton>}
-                        </Grid>
-
-                    </Grid> :
-                    <Card className={'advent-modal-way-to-get'}>
-                        {data.link}
-                    </Card>
-                }
+                <Card className={'advent-modal-way-to-get'}>
+                    {data.instructions}
+                </Card>
 
 
             </DialogContentText>

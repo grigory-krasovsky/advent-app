@@ -2,27 +2,97 @@
   {
     "id": 1,
     "title": "Остров сокровищ",
-    "description": "Английский писатель, поэт и литературный критик Роберт Льюис Стивенсон – автор произведений, пользующихся популярностью и поныне, среди которых «Черная стрела», «Алмаз Раджи», «Клуб Самоубийства» и многие другие. Однако мировую известность писателю принес «Остров Сокровищ», подлинный эталон приключенческого пиратского романа. Таинственная карта давно погибшего знаменитого пирата с указанием местоположения клада, зарытого на необитаемом острове, становится причиной зловещих заговоров, загадочных убийств и других захватывающих событий.",
-    "link": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
-    "date": "2024-12-03"
+    "description": "Tаинственная карта давно погибшего знаменитого пирата с указанием местоположения клада, зарытого на необитаемом острове, становится причиной зловещих заговоров, загадочных убийств и других захватывающих событий.",
+    "instructions": "Ждет тебя на шкафу в корридоре :)",
+    "date": "2024-12-03",
+    "grade": "uncommon"
   },
   {
     "id": 2,
     "title": "Остров сокровищ",
     "description": "Остров сокровищ",
-    "link": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
-    "date": "2024-12-04"
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "date": "2024-12-04",
+    "grade": "uncommon"
   },
   {
     "id": 3,
     "title": "Остров сокровищ",
     "description": "Остров сокровищ",
-    "link": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/"
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "rare",
+    "date": "2024-12-04"
   },
   {
     "id": 4,
     "title": "Остров сокровищ",
     "description": "Остров сокровищ",
-    "link": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/"
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "uncommon",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 5,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "epic",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 6,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "uncommon",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 7,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "rare",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 8,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "epic",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 9,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "rare",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 10,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "rare",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 11,
+    "title": "Остров сокровищ",
+    "description": "Остров сокровищ",
+    "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
+    "grade": "uncommon",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 12,
+    "title": "Остров сокровищ",
+    "description": "Книжки на этот раз нет :(",
+    "instructions": "Но кое-что другое ждет тебя под елкой!",
+    "grade": "legendary",
+    "date": "2024-12-01"
   }
 ]

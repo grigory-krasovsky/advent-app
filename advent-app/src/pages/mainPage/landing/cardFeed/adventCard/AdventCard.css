@@ -1,9 +1,45 @@
+@keyframes tilt-shaking {
+    0% { transform: translateX(0) }
+    25% { transform: translateX(5px) }
+    50% { transform: translateX(-5px) }
+    75% { transform: translateX(5px) }
+    100% { transform: translateX(0) }
+}
+
 .advent-card {
     width: 326px;
     height: 489px;
     margin-bottom: 30px;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.shaking {
+    animation: tilt-shaking 0.5s;
+}
+
+.uncommon-shade:hover {
+    -webkit-box-shadow: 0px 5px 64px 40px var(--uncommon-shade);
+    -moz-box-shadow: 0px 5px 64px 40px var(--uncommon-shade);
+    box-shadow: 0px 5px 64px 15px var(--uncommon-shade) !important;
+}
+
+.rare-shade:hover {
+    -webkit-box-shadow: 0px 5px 64px 15px var(--rare-shade);
+    -moz-box-shadow: 0px 5px 64px 15px var(--rare-shade);
+    box-shadow: 0px 5px 64px 15px var(--rare-shade) !important;;
+}
+
+.epic-shade:hover {
+    -webkit-box-shadow: 0px 5px 64px 15px var(--epic-shade);
+    -moz-box-shadow: 0px 5px 64px 15px var(--epic-shade);
+    box-shadow: 0px 5px 64px 15px var(--epic-shade) !important;;
+}
+
+.legendary-shade:hover {
+    -webkit-box-shadow: 0px 5px 64px 15px var(--legendary-shade);
+    -moz-box-shadow: 0px 5px 64px 15px var(--legendary-shade);
+    box-shadow: 0px 5px 64px 15px var(--legendary-shade) !important;
 }
 
 .card-1 {

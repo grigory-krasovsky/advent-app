@@ -7,9 +7,16 @@ const AdventCard = ({book}) => {
     const [modalOpen, setModalOpen] = useState(false);
     const handleModalClose = () => setModalOpen(false);
 
+    const [isShaking, setIsShaking] = useState(false);
+
     const handleModalOpen = () => {
         if (new Date(book.date) <= new Date()) {
             setModalOpen(true)
+        } else {
+            setIsShaking(true);
+            setTimeout(() => {
+                setIsShaking(false); // Reset after animation
+            }, 1000);
         }
         //Todo сделать всплывашку об ошибке
 
@@ -17,7 +24,7 @@ const AdventCard = ({book}) => {
 
     return (
         <Box>
-            <Card className={`advent-card card-${book.id}`} onClick={handleModalOpen}></Card>
+            <Card className={`advent-card card-${book.id} ${book.grade}-shade ${isShaking ? 'shaking' : ''}`} onClick={handleModalOpen}></Card>
             <AdventModal data={book} modalOpen={modalOpen} onClose={handleModalClose} />
         </Box>
     );
