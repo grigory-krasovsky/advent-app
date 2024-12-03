@@ -1,0 +1,28 @@
+.advent-modal .MuiPaper-root:not(.my-snack) {
+    background-color: var(--main-bg-color);
+    border: solid;
+    border-width: 3px;
+    border-color: var(--dark-red);
+}
+
+.advent-modal-description {
+    padding: 5px;
+    background-color: var(--landing-bg-color) !important;
+    border-width: 1px !important;
+}
+
+.advent-modal-way-to-get {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: var(--landing-bg-color) !important;
+    border-width: 1px !important;
+}
+
+.advent-modal-button {
+    background-color: var(--dark-red) !important;
+    margin-bottom: 10px;
+}
+
+.my-snack {
+
+}

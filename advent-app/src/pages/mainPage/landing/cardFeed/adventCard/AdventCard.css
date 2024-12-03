@@ -1,0 +1,44 @@
+.advent-card {
+    width: 326px;
+    height: 489px;
+    margin-bottom: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-1 {
+    background-image: url('../../../../../assets/pics/1.png') !important;
+}
+.card-2 {
+    background-image: url('../../../../../assets/pics/2.png') !important;
+}
+.card-3 {
+    background-image: url('../../../../../assets/pics/3.png') !important;
+}
+.card-4 {
+    background-image: url('../../../../../assets/pics/4.png') !important;
+}
+.card-5 {
+    background-image: url('../../../../../assets/pics/5.png') !important;
+}
+.card-6 {
+    background-image: url('../../../../../assets/pics/6.png') !important;
+}
+.card-7 {
+    background-image: url('../../../../../assets/pics/7.png') !important;
+}
+.card-8 {
+    background-image: url('../../../../../assets/pics/8.png') !important;
+}
+.card-9 {
+    background-image: url('../../../../../assets/pics/9.png') !important;
+}
+.card-10 {
+    background-image: url('../../../../../assets/pics/10(1).png') !important;
+}
+.card-11 {
+    background-image: url('../../../../../assets/pics/11(1).jpeg') !important;
+}
+.card-12 {
+    background-image: url('../../../../../assets/pics/12(2).jpeg') !important;
+}

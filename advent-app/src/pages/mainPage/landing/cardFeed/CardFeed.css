@@ -1,0 +1,10 @@
+.card-feed {
+    margin-left: 71px;
+    margin-right: 71px;
+    margin-top: 55px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
