@@ -8,7 +8,7 @@ const CardFeed = () => {
     return <Box className={'card-feed'}>
         <Grid container>
             {data && data.map((book, i) => {
-                return <Grid xs={4} className={'card-container'} key={i}>
+                return <Grid xs={12} sm={4} className={'card-container'} key={i}>
                     <AdventCard book={book}/>
                 </Grid>
             })}

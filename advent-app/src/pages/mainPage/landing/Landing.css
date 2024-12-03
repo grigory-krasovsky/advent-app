@@ -3,3 +3,11 @@
     margin-right: 200px;
     background-color: var(--landing-bg-color);
 }
+
+@media (max-width: 600px) {
+    .landing {
+        margin-left: 0;
+        margin-right: 0;
+        /* Adjust margins for smaller screens */
+    }
+}

@@ -9,3 +9,9 @@
 .upper-text {
     margin-bottom: -30px !important;
 }
+
+@media (max-width: 600px) {
+    .title-text {
+        font-size: 60px !important;
+    }
+}
