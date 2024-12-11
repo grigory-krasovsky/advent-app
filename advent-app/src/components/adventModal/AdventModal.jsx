@@ -10,9 +10,6 @@ import {
 } from "@mui/material";
 import './AdventModal.css';
 import {useState} from "react";
-import ContentCopyIcon from '@mui/icons-material/ContentCopy';
-import CheckCircleIcon from '@mui/icons-material/CheckCircle';
-
 const AdventModal = ({modalOpen, onClose, data}) => {
 
     const [copied, setCopied] = useState(false);
