@@ -1,98 +1,98 @@
 [
   {
     "id": 1,
-    "title": "Остров сокровищ",
-    "description": "Tаинственная карта давно погибшего знаменитого пирата с указанием местоположения клада, зарытого на необитаемом острове, становится причиной зловещих заговоров, загадочных убийств и других захватывающих событий.",
+    "title": "Книга №1",
+    "description": "Книга про пиратов, сокровища и остров...",
     "instructions": "Ждет тебя на шкафу в корридоре :)",
-    "date": "2024-12-03",
+    "date": "2024-12-20",
     "grade": "uncommon"
   },
   {
     "id": 2,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №2",
+    "description": "Снова остров, полный тайн. Персонажей ждут опасные и захватывающие приключения. Роман-робинзонада Ж. Верна",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
-    "date": "2024-12-04",
+    "date": "2024-12-21",
     "grade": "uncommon"
   },
   {
     "id": 3,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №3",
+    "description": "Куда же без научной фантастики. Клиффорд Саймак - один из любимых авторов, надеюсь понравится больше Гаррисона.",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "rare",
-    "date": "2024-12-04"
+    "date": "2024-12-22"
   },
   {
     "id": 4,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №4",
+    "description": "От автора 'Трех мушкетеров'. Книга о том, как превратности судьбы могут поменять человека, особенно, если превратности - это несправедливый тюремный срок",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "uncommon",
-    "date": "2024-12-04"
+    "date": "2024-12-23"
   },
   {
     "id": 5,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №5",
+    "description": "Русская классика. Книга про ботов и накрутку, когда это еще не было мейнстримом.",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "epic",
-    "date": "2024-12-04"
+    "date": "2024-12-24"
   },
   {
     "id": 6,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №6",
+    "description": "Книга про войну с первыми аэродинамическими механизмами, преобразующими кинетическую энергию ветра в полезную работу для последующего помола муки.",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "uncommon",
-    "date": "2024-12-04"
+    "date": "2024-12-25"
   },
   {
     "id": 7,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №7",
+    "description": "Роман, описывающий вполне вероятное развитие событий в нашей стране в 2030-х годах. Надеюсь, все же фантастика...",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "rare",
-    "date": "2024-12-04"
+    "date": "2024-12-26"
   },
   {
     "id": 8,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №8",
+    "description": "Артур Кларк - еще один любимый автор научной фантастики. По сюжетам его книг мной в детстве было нарисовано много картин :)",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "epic",
-    "date": "2024-12-04"
+    "date": "2024-12-27"
   },
   {
     "id": 9,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №9",
+    "description": "Здесь без загадки. 'Капитан Сорви-голова' Луи Буссенара - один из любимых романов детсва, думаю и сейчас читается интересно.",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "rare",
-    "date": "2024-12-04"
+    "date": "2024-12-28"
   },
   {
     "id": 10,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №10",
+    "description": "Один из многочисленных романов королевы интригующих загадок и неожиданных финалов.",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "rare",
-    "date": "2024-12-04"
+    "date": "2024-12-29"
   },
   {
     "id": 11,
-    "title": "Остров сокровищ",
-    "description": "Остров сокровищ",
+    "title": "Книга №11",
+    "description": "Книга про сыщика, его друга-врача и собаку",
     "instructions": "https://www.litres.ru/book/robert-luis-stivenson/ostrov-sokrovisch-124958/",
     "grade": "uncommon",
-    "date": "2024-12-04"
+    "date": "2024-12-30"
   },
   {
     "id": 12,
-    "title": "Остров сокровищ",
+    "title": "Главный подарочек",
     "description": "Книжки на этот раз нет :(",
     "instructions": "Но кое-что другое ждет тебя под елкой!",
     "grade": "legendary",
-    "date": "2024-12-01"
+    "date": "2024-12-31"
   }
 ]
