@@ -11,7 +11,9 @@ const AdventCard = ({book}) => {
     const [isShaking, setIsShaking] = useState(false);
 
     const handleModalOpen = () => {
-        if (new Date(book.date) <= new Date()) {
+        let date = new Date(book.date);
+        date.setHours(new Date(book.date).getHours() - 3)
+        if (date <= new Date()) {
             setModalOpen(true)
         } else {
             setIsShaking(true);
